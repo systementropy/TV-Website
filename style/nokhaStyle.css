@@ -1,0 +1,24 @@
+.clear{
+	clear: both;
+	display: block;
+}
+.marginZ{margin: 0;}
+.border-bottom{border-bottom: 1px solid rgba(0, 0, 0, 0.3);}
+.nokhaClr{color:#FF0000;}
+.nokhaBG{background: #FF0000; color: #FFFFFF;}
+.newsMarqueeRow{text-align: center;line-height: 40px;}
+.newsMarqueeRow .col-md-9{background: #EEE;}
+.slick-prev:before{
+	    content: '<' !important;
+}
+.slick-next:before {
+    content: '>' !important;
+}
+.row.mainBannerSliderCont {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.mainBannerCont{min-height: 354px;}
+.slick-dots{bottom: 8px !important;}
+.slick-dots li button{border-radius: 50%;background: #FF0000 !important;opacity: 0.2;text-indent: -9900px;}
+.slick-dots li.slick-active button{border-radius: 50%;background: #FF0000;opacity: 0.7;}
