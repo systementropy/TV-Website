@@ -24,8 +24,8 @@ var app = angular.module("myApp", ['ngRoute','ui.bootstrap','slickCarousel']).co
 app.controller('MainCtrl', function($scope) {
    $scope.news = ["One news","Two news","Three news","Four news"];
    $scope.stripNews={
-      title:"J&K में 7 आतंकी ढेर: नौगाम-कुपवाड़ा में कार्रवाई, देश के 24 एयरपोर्ट पर अलर्ट ",
-      text:"गुरुवार को घुसपैठ की 4 कोशिशें हुईं। कुपवाड़ा के 30 राष्ट्रीय राइफल्स कैम्प को आतंकियों ने निशाना बनाया।"
+      title:"'Khoon Ki Dalaali': Rahul misses on history, fails to learn from Sonia Gandhi's mistakes",
+      text:"Rahul Gandhi seems to be a slow learner or not one at all. He has not learnt a bit from the humongous mistake committed by his mother Sonia Gandhi in the run up to the 2007 Gujarat assembly elections, as evident from all the mistakes he, his mother and"
    }
 });
 
